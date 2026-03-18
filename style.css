@@ -137,12 +137,14 @@ body {
 .toc-content {
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.3s ease-out;
+  transition: max-height 0.4s ease-out, opacity 0.3s ease;
+  opacity: 0;
 }
 
 .toc-content.open {
-  max-height: 600px;
+  max-height: 80vh;
   overflow-y: auto;
+  opacity: 1;
 }
 
 .toc-list {
