@@ -1,4 +1,4 @@
-Bonne question. Les deux documents forment un diptyque solide — l'un sur le diagnostic institutionnel (particratie + État de droit), l'autre sur le pouvoir d'agir citoyen. Mais un dossier complet présente encore plusieurs angles morts significatifs.
+Les deux documents forment un diptyque solide — l'un sur le diagnostic institutionnel (particratie + État de droit), l'autre sur le pouvoir d'agir citoyen. Mais un dossier complet présente encore plusieurs angles morts significatifs.
 
 **Ce qui est couvert :**
 Le document 1 traite du cadre constitutionnel, de la particratie consulaire, des atteintes à l'État de droit (COVID, asile), du scrutin international (GRECO, Commission UE, Liberties), des réformes Arizona et de la Cour constitutionnelle. Le document 2 complète avec les dispositifs participatifs, le cadre juridique du pouvoir d'agir, les obstacles structurels, la société civile, la comparaison internationale et le débat sur le Sénat.
@@ -24,5 +24,3 @@ Le document 1 traite du cadre constitutionnel, de la particratie consulaire, des
 **9. Un chapitre de synthèse opérationnelle / feuille de route.** Les deux documents diagnostiquent et documentent, mais ne proposent pas de cadre d'action structuré. Pour un dossier d'éducation permanente, il faudrait une grille VJA (Voir-Juger-Agir) ou un équivalent qui hiérarchise les leviers, identifie les points d'entrée concrets pour un citoyen ou un collectif, et distingue ce qui est faisable maintenant de ce qui nécessite une réforme constitutionnelle.
 
 **En résumé, il manque trois à quatre chapitres de fond** (conflits d'intérêts/pantouflage, cabinets ministériels, intercommunales, contentieux stratégique) et **un chapitre de synthèse actionnable**. Le niveau communal et l'éducation à la citoyenneté peuvent s'intégrer comme sous-sections dans les textes existants. La dimension communautaire peut être traitée en transversal.
-
-Tu veux que j'attaque un de ces blocs en priorité ?
