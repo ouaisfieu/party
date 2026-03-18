@@ -14,6 +14,10 @@ function initTableOfContents() {
   const tocContent = document.getElementById('tocContent');
   const sections = document.querySelectorAll('article section[id]');
 
+  if (!tocList || !tocToggle || !tocContent) {
+    return;
+  }
+
   sections.forEach(section => {
     const id = section.id;
     const heading = section.querySelector('h2');
@@ -29,7 +33,8 @@ function initTableOfContents() {
     }
   });
 
-  tocToggle.addEventListener('click', () => {
+  tocToggle.addEventListener('click', (e) => {
+    e.preventDefault();
     tocContent.classList.toggle('open');
   });
 
